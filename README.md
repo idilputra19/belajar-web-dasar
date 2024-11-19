@@ -32,8 +32,7 @@
 
 1. **Kloning Repository**
    ```bash
-   git clone https://github.com/username/CRUD-application-php.git
-   cd CRUD-application-php
+   git clone https://github.com/idilputra19/belajar-web-dasar.git
    ```
 
 2. **Persiapkan Database**
