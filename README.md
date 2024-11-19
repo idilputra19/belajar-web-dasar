@@ -2,7 +2,7 @@
 # 🌟 CRUD Application with PHP
 🚀 *"A simple yet powerful CRUD application to manage your data seamlessly!"*
 
-![CRUD Banner](https://idilputra.my.id/tugas-web/)
+![CRUD Banner](https://via.placeholder.com/1200x400.png?text=CRUD+Application+with+PHP)
 
 ---
 
